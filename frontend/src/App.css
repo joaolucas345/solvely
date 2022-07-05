@@ -1,0 +1,17 @@
+.quadratic-equation {
+    background: url("../static/quadraticequation.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: luminosity;
+    background-color: white;
+}
+
+.vertex-formula {
+    background: url("../static/vertexformula.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: luminosity;
+    background-color: white;
+}
