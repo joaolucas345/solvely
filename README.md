@@ -12,7 +12,7 @@
   - [ ] Prism
   - [x] Cube
   <!-- - [ ] Pyramid -->
-  - [ ] Circle
+  - [x] Circle
   <!-- - [ ] Cylinder -->
 - [ ] Perimeter
 - [ ] Circumference 
