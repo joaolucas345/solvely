@@ -14,11 +14,11 @@
   <!-- - [ ] Pyramid -->
   - [x] Circle
   <!-- - [ ] Cylinder -->
-- [ ] Perimeter
+- [x] Perimeter
 - [ ] Circumference 
 - [ ] Factoring 
 - [ ] Greatest common factor
-- [ ] Square root
+<!-- - [ ] Square root -->
 - [ ] Distance between 2 points
 - [ ] Slope
   - [ ] Equation of line (all types)
@@ -39,3 +39,9 @@
 - [ ] Graphs funções 
 - [ ] Polinomials operation
 - [ ] Quadratic function- achar is intercepts e o vertex, ponto min ou max
+
+NOTES: 
+ TO FIX:
+
+ OTHER NOTES: 
+   - tirei square root daqui porque eu acho que voce tem calculadora no seu celular

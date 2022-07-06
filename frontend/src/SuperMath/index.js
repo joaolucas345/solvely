@@ -6,6 +6,7 @@ const volumeRegShapes = require('./equs/volumeRegShapes')
 const areaRegShapes = require('./equs/areaRegShapes')
 const volumePyramid = require('./equs/volumePyramid')
 const volumeSphere = require('./equs/volumeSphere')
+const perimeterARR = require('./equs/perimeter')
 
 const SuperMath = {
     quadraticEquation,
@@ -15,7 +16,8 @@ const SuperMath = {
     volumeRegularShapes: volumeRegShapes, 
     areaRegularShapes: areaRegShapes,
     volumePyramid,
-    volumeSphere
+    volumeSphere,
+    perimeterARR
 }
 
 module.exports = SuperMath

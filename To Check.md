@@ -7,3 +7,4 @@
  - Cylinder volume
  - Cube area
  - Circle area
+ - Perimeter

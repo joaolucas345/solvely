@@ -40,6 +40,7 @@ const populateParams = async () => {
     interface.close()
 }
 
+// console.log(SuperMath.perimeterARR([]))
 populateParams()
 // console.log(params)
 // console.log(SuperMath.quadraticEquation(1, 4, 5))
