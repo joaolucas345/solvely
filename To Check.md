@@ -8,3 +8,4 @@
  - Cube area
  - Circle area
  - Perimeter
+ - Circumference

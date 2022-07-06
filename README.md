@@ -15,7 +15,7 @@
   - [x] Circle
   <!-- - [ ] Cylinder -->
 - [x] Perimeter
-- [ ] Circumference 
+- [x] Circumference 
 - [ ] Factoring 
 - [ ] Greatest common factor
 <!-- - [ ] Square root -->
