@@ -8,8 +8,8 @@
   - [x] Sphere
   - [x] Cylinder
 - [ ] Surface area
-- [ ] Área 
-  - [ ] Prism
+- [x] Área 
+  <!-- - [ ] Prism -->
   - [x] Cube
   <!-- - [ ] Pyramid -->
   - [x] Circle
@@ -19,7 +19,7 @@
 - [ ] Factoring 
 - [x] Greatest common factor
 <!-- - [ ] Square root -->
-- [ ] Distance between 2 points
+- [x] Distance between 2 points
 - [ ] Slope
   - [ ] Equation of line (all types)
   - [ ] Slope intercept form
@@ -45,3 +45,9 @@ NOTES:
 
  OTHER NOTES: 
    - tirei square root daqui porque eu acho que voce tem calculadora no seu celular
+
+ QUESTIONS:
+   - Qual o plano para a sufarce area?
+   - Como tem que ser o output de factoring?
+   - Como fazer o volume do prism?
+   - Olhar os eliminidos da area e ver se todos podem ser eliminados?

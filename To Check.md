@@ -10,3 +10,4 @@
  - Perimeter
  - Circumference
  - Greatest common factor
+ - Distance between two points
