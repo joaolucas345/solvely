@@ -28,7 +28,7 @@
   - [ ] Vertex form
 - [ ] Complex number operations
 - [x] Pythagorean theorem
-- [ ] Condição de existência triângulo 
+- [x] Condição de existência triângulo 
 - [ ] Mean, median and mode
 - [ ] Five numbers summary: min, q1, median, q3, max - montar o box pot 
 - [ ] Elipse

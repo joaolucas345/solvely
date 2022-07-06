@@ -12,3 +12,4 @@
  - Greatest common factor
  - Distance between two points
  - Pythagorean theorems
+ - Existence of a triangle
