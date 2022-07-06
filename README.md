@@ -5,7 +5,7 @@
   - [ ] Prism
   - [x] Cube
   - [x] Pyramid
-  - [ ] Sphere
+  - [x] Sphere
   - [ ] Cylinder
 - [ ] Surface area
 - [ ] Área 
