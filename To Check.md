@@ -9,3 +9,4 @@
  - Circle area
  - Perimeter
  - Circumference
+ - Greatest common factor
