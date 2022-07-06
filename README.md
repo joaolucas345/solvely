@@ -1,9 +1,19 @@
 # SOLVELY
 
-- [ ] Quadratic function- achar is intercepts e o vertex, ponto min ou max
-- [] Volume
-- [] Surface area
-  - [] Área 
+- [x] Quadratic equations: - resolver e dizer se tem 1, infinitas ou no solution
+- [ ] Volume
+  - [ ] Prism
+  - [x] Cube
+  - [ ] Pyramid
+  - [ ] Sphere
+  - [ ] Cylinder
+- [ ] Surface area
+- [ ] Área 
+  - [ ] Prism
+  - [x] Cube
+  - [ ] Pyramid
+  - [ ] Sphere
+  - [ ] Cylinder
 - [ ] Perimeter
 - [ ] Circumference 
 - [ ] Factoring 
@@ -28,4 +38,4 @@
 - [ ] Funções: domain, range, intercepts
 - [ ] Graphs funções 
 - [ ] Polinomials operation
-- [x] Quadratic equations: - resolver e dizer se tem 1, infinitas ou no solution
+- [ ] Quadratic function- achar is intercepts e o vertex, ponto min ou max
