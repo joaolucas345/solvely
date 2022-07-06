@@ -27,7 +27,7 @@
   - [ ] Standard form
   - [ ] Vertex form
 - [ ] Complex number operations
-- [ ] Pythagorean theorem
+- [x] Pythagorean theorem
 - [ ] Condição de existência triângulo 
 - [ ] Mean, median and mode
 - [ ] Five numbers summary: min, q1, median, q3, max - montar o box pot 
@@ -51,3 +51,5 @@ NOTES:
    - Como tem que ser o output de factoring?
    - Como fazer o volume do prism?
    - Olhar os eliminidos da area e ver se todos podem ser eliminados?
+   - Como fazer as contas do slope?
+   - Como fazer complex number operation?

@@ -11,3 +11,4 @@
  - Circumference
  - Greatest common factor
  - Distance between two points
+ - Pythagorean theorems

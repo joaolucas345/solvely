@@ -11,6 +11,7 @@ const circumference = require('./equs/circumference')
 const circleArea = require('./equs/circleArea')
 const volumeCylinder = require('./equs/cylinderVolume')
 const greatesCommonFactor = require('./equs/greatestCommonFactor')
+const pythagoreanTheorem = require('./equs/pythagoreanTheorem')
 
 const SuperMath = {
     quadraticEquation,
@@ -25,7 +26,8 @@ const SuperMath = {
     circumference,
     circleArea,
     volumeCylinder,
-    greatesCommonFactor
+    greatesCommonFactor,
+    pythagoreanTheorem
 }
 
 module.exports = SuperMath
