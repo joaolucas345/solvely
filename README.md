@@ -4,16 +4,16 @@
 - [ ] Volume
   - [ ] Prism
   - [x] Cube
-  - [ ] Pyramid
+  - [x] Pyramid
   - [ ] Sphere
   - [ ] Cylinder
 - [ ] Surface area
 - [ ] Área 
   - [ ] Prism
   - [x] Cube
-  - [ ] Pyramid
-  - [ ] Sphere
-  - [ ] Cylinder
+  <!-- - [ ] Pyramid -->
+  - [ ] Circle
+  <!-- - [ ] Cylinder -->
 - [ ] Perimeter
 - [ ] Circumference 
 - [ ] Factoring 

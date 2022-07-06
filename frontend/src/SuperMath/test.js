@@ -35,11 +35,8 @@ const populateParams = async () => {
     for(i = 0; i < params.length; i ++) {
         await ask()
     }
-    // const s = 'a'
-    // let funcStr = `console.log(s)`
-    // arrayOfParams.forEach((par,i) => i != arrayOfParams.length - 1 ? funcStr += `${parseFloat(par)},` : funcStr += `${parseFloat(par)}))`) 
+    
     console.log(SuperMath[subclass](...arrayOfParams))
-    // r()
     interface.close()
 }
 
