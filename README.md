@@ -17,7 +17,7 @@
 - [x] Perimeter
 - [x] Circumference 
 - [ ] Factoring 
-- [ ] Greatest common factor
+- [x] Greatest common factor
 <!-- - [ ] Square root -->
 - [ ] Distance between 2 points
 - [ ] Slope
